@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "Fusion-GamesX",
+  "description": "<h1>Fusion Games</h1> <p>Fusion Games will be the next leading unblocked game website.</p> <hr> <h2>Hosting</h2> <p>You can use any hosting provider btw!</p> <p>With any hosting provider(even on your own server) you need to have <a href=\"https://nodejs.org\">Node.js</a></p> <p>The run command is<p style=\"background-color:#2F4F4F; \">node run start</p></p> <p><a href=\"mailto:L1FEyt@proton.me\">Email L1FE</a></p> <hr> <h1>Collaborators</h1> <img src=\"https://gitlab.com/uploads/-/system/user/avatar/19842753/avatar.png\" alt=\"L1FE\" style=\"border-radius:50%;\"> <img src=\"https://gitlab.com/uploads/-/system/user/avatar/19985639/avatar.png\" alt=\"Extraskilled56\" style=\"border-radius:50%;\"> <h2>HYRA GAMES X GALAXY NETWORK</h2> <p>Fusion games is in progress, from L1FE</p>",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "L1FE and Extraskilled56",
+  "license": "GNU"
+}
